@@ -10,11 +10,11 @@ My GitHub page is http://github.com/arwinCh.
 
 * Lab 3
 
-    Lab 3, part 1 was one of my favorites because it was a good introductory lab to ger accustomed to programming. We had to learn how to correctly declare variables, take user input, and display it. This lab was a good way to transition into the later labs we would face in the year.
+    Lab 3, part 1 was one of my favorites because it was a good introductory lab to get accustomed to programming. We had to learn how to correctly declare variables, take user input, and then display it. This lab was a good way to transition into the later labs we would face in the year.
 * Lab 9
 
-    Lab 9, part 2 was also a fun lab because it challenged us to use break statements with our for loop. We hadn't done that before so it was a task for my partner and I to properly implement it within our code. We found it interesting to to try and use what we had learned in the lecture and implement it within our own program.
+    Lab 9, part 2 was also fun because it challenged us to use break statements with our for loop. We hadn't done that before so it was a task for my partner and I to properly implement it within our code. We found it interesting to try and use what we had learned in the lecture and implement it within our program.
 * Lab 11
 
-    Lab 11, part 2 was an interesting lab because of the way we needed to use constructors. It was tricky to write the "Random Number Generator" function, so it made the lab a little difficult. However, we noticed how that we could also write the constructor statements that we wrote and replace them with "if" statements. 
+    Lab 11, part 2 was interesting because of the way we needed to use constructors. It was tricky to write the "Random Number Generator" function, so it made the lab a little difficult. However, we noticed how we could also write the constructor statements that we wrote and replace them with "if" statements. 
 
